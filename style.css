@@ -18,8 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-.reference { text-align: center;
-}
+  .reference {
+    text-align: center;
+  }
 }
 .main-page {
   display: block;
